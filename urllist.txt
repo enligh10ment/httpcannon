@@ -1,0 +1,4 @@
+https://stackoverflow.com,/,StackOverflow_HP
+https://www.google.com,/,Google_HP
+https://github.com,/,GitHub_HP
+https://www.amazon.com,/,Amazon_HP
