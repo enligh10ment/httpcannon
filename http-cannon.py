@@ -92,7 +92,7 @@ def doSomethingWithResult(status, url, ourl):
     if status in "200":
       pass
       #print "[" + status + "]" + bcolors.OKGREEN  +" SUCCESS " + bcolors.ENDC + url
-    elif ("SomeNiceURLName" in url and status in "401") or ("SomeOtherNiceURLNae" and status in "401"):
+    elif ("SomeNiceURLName" in url and status in "401") or ("SomeOtherNiceURLName" and status in "401"):
       pass
       #print "[" + status + "]" + bcolors.OKGREEN  +" SUCCESS " + bcolors.ENDC + url
     else:
