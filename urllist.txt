@@ -1,4 +1,9 @@
-https://stackoverflow.com,/,StackOverflow_HP
-https://www.google.com,/,Google_HP
-https://github.com,/,GitHub_HP
-https://www.amazon.com,/,Amazon_HP
+https://stackoverflow.com/,StackOverflow_HP
+https://www.google.com/,Google_HP
+https://github.com/,GitHub_HP
+https://www.amazon.com/,Amazon_HP
+https://www.cars.com/not-real/,Cars.com_301
+https://www.spotify.com/us/,Spotify_HomePage
+https://www.reddit.com/,Reddit_HomePage
+https://www.gjfdkljdfsklaoogle.com/fdsa/search?q=self_secceded&oq=self_secceded&aqs=chrome..69i57j0l4.98j0j4&sourceid=chrome&ie=UTF-8,WillBreak-NODOMAIN
+https://www.google.com/fdsa/search?q=self_secceded&oq=self_secceded&aqs=chrome..69i57j0l4.98j0j4&sourceid=chrome&ie=UTF-8,WillBreak-404
